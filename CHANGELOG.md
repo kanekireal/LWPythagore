@@ -8,7 +8,7 @@ and this project adheres to [SemVer](http://semver.org/).
 ### Changed
 - Update and improvement.
 
-## 1.0.0 - 2019-01-18
+## 1.0.0 - 2019-01-27
 ### Added
 - main.cpp
 #### pythagore.cpp / pythagore.hpp
